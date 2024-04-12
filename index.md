@@ -1,8 +1,12 @@
 ---
 layout: default
-title: My Blog
+title: Home
 ---
 
-# Welcome to my blog!
+# Welcome to my Blog!
 
-Hello, this is my first post. I'm using GitHub Pages and Jekyll!
+Here are my recent posts:
+
+{% for post in site.posts limit:5 %}
+  - [{{ post.title }}]({{ post.url | absolute_url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
