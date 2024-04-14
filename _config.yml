@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 email:              goraniiworks@gmail.com
 #twitter:            username
 #facebook:           username
-github-url:         https://github.com/goraniworks/
+github-url:         goraniworks
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -52,8 +52,8 @@ github-url:         https://github.com/goraniworks/
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:           www.youtube.com/@goraniworks
-#youtube-channel:   channel
+#youtube:           ???
+youtube-channel:   @goraniworks
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
