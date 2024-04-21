@@ -5,6 +5,8 @@ navbar_entries:
   - title: blog
     url: blog
 
+  - title: github
+    url: https://github.com/goraniworks
   # - title: website
   #   url: https://www.abhinav.co
 
