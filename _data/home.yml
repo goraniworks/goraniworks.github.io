@@ -57,11 +57,11 @@ footer_entries:
   - title: github
     url: https://github.com/goraniworks
 
-  - title: Youtube
-    url: www.youtube.com/@goraniworks
+  # - title: Youtube
+  #   url: www.youtube.com/@goraniworks
 
-  - title: Mail
-    url: goraniiworks@gmail.com   
+  # - title: Mail
+  #   url: goraniiworks@gmail.com   
 
 
 
