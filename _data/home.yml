@@ -12,7 +12,7 @@ navbar_entries:
 
 project_entries:
   - title: Displaying Real-Time DCS Game Data on a Webpage
-    url: DCS-게임 데이터-실시간-웹페이지-표현
+    url: DCS-게임_데이터-실시간-웹페이지-표현
     desc: Displaying Real-Time DCS Game Data on a Webpage
 
   # - title: Project 2
