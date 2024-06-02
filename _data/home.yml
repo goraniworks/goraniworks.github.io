@@ -15,9 +15,9 @@ project_entries:
     url: https://github.com/goraniworks/DCS
     desc: Displaying Real-Time DCS Game Data on a Webpage
 
-  # - title: Project 2
-  #   url: overview-post
-  #   desc: Projects are shown in card layout
+  - title: 유튜브 실시간 채팅 번역기
+    url: https://github.com/goraniworks/youtube_chat_trans
+    desc: Creating an Automated Input and Translator for YouTube Live Chat
 
   # - title: Project 3
   #   url: overview-post
