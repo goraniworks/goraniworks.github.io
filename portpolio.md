@@ -9,7 +9,7 @@ title: portpolio
 
 ## ✉️ Contact
 
-- **E-Mail:** [noir-16@hanmail.net](mailto:noir-16@hanmail.net)
+- **E-Mail:** [goraniiworks@gmail.com](mailto:goraniiworks@gmail.com)
 - **GitHub:** [https://github.com/goraniworks](https://github.com/goraniworks)
 - **Blog:** [https://goraniworks.github.io/](https://goraniworks.github.io/)
 
@@ -94,7 +94,9 @@ title: portpolio
 
 ### 게임 개발 (2021~2023)
 - 내용 공개 불가 (추후 발매 예정)
-- 파이썬 기반의 개발 툴(renpy)을 이용한 전략 게임 개발
+- 조선시대 열두살 고종을 육성하여 나라를 근대화 하는 전략게임 
+- 조선 8도 지역별 이벤트, 장터, 인구 계층별 이해관계 구현
+- 파이썬 기반의 개발 툴(renpy)
 - 모듈화된 이벤트 구조를 통한 파라메터 증감
 - 인플레이션이 반영된 물가 시스템
 
