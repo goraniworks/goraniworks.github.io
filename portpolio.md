@@ -72,20 +72,24 @@ title: portpolio
 
 ## 📜 Personal Projects
 
-### 로봇 제작 (2019~2021)
-- **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=q5RRWnfku9w)
+### 로봇 제작 (2018~2021)
+- v1 **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=q5RRWnfku9w)
 - 코드 공개 불가 (추후 개발 예정)
 - GPIO를 통한 모터제어
 - 각종 센서 신호 입력/출력
 - LTE 무선 통신을 통한 문자열, 화면 전송
 - 웹기반 인터페이스 통한 원격 조작
+- inventor를 이용한 실물설계. 레이저 컷팅기, 3D프린터를 이용한 로봇 관절 및 뼈대 제작
+- v2 **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=JeqHKDsGvEE)
+- v3 로봇 뼈대 및 몸체 형상 제작. 형상 공개 불가 (추후 개발 예정)
 
 ### 웹 서버 구축 (2021)
-- 플라스크를 이용한 게시판 구축
+- **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=I-RsGblS2pw)
+- flask를 이용한 게시판 구축
 - 라즈베리파이를 이용한 원격 PC on/off 장치
 
-### 미세먼지 측정기 (2021)
-- 블로그 링크
+### 미세먼지 측정기 (2018)
+- 블로그 링크 [https://wm0326.blogspot.com/2018/12/blog-post.html](https://wm0326.blogspot.com/2018/12/blog-post.html)
 - 미세먼지 센서에서 출력된 문자열 LCD 화면에 출력
 
 ### 게임 개발 (2021~2023)
@@ -93,6 +97,9 @@ title: portpolio
 - 파이썬 기반의 개발 툴(renpy)을 이용한 전략 게임 개발
 - 모듈화된 이벤트 구조를 통한 파라메터 증감
 - 인플레이션이 반영된 물가 시스템
+
+### 최신 프로젝트(2024~ )
+- 블로그 참조 바람 [https://goraniworks.github.io/](https://goraniworks.github.io/)
 
 ## ⛏️ Skills and Tools
 | Category       | Experienced   | Novice           |
