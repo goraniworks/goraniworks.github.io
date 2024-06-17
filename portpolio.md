@@ -7,25 +7,20 @@ title: portpolio
 
 > **SW/HW 전문가, 박지수 입니다.**
 
-## 🎂 Birth
-
-1984.08.21 (만 39세)
-
 ## ✉️ Contact
 
 - **E-Mail:** [noir-16@hanmail.net](mailto:noir-16@hanmail.net)
-- **Phone number:** 010 4468 2131
-- **Residence:** 광주광역시 광산구
 - **GitHub:** [https://github.com/goraniworks](https://github.com/goraniworks)
 - **Blog:** [https://goraniworks.github.io/](https://goraniworks.github.io/)
 
 ## 🙋‍♂️ About Me
 
 - 보안이 최우선이에요.
-- 쉬운 개발 / 쉬운 유지보수를 추구해요.
+- 쉬운 개발 / 쉬운 유지보수를 추구해요. 
+- 적극적으로 AI를 도입합니다.
 - 꾸준하게 신기술을 접하며 항상 성장하려고 노력해요.
-- 🏨 Python과 하드웨어에 관심이 많습니다.
-- 🌱 현재 Openai_API와 Whisper를 배우고 있습니다.
+- 🏨 Python과 하드웨어, AI에 관심이 많습니다.
+- 🌱 현재 UNITY를 배우고 있습니다.
 - 😘 Python, Raspberry_PI 및 하드웨어 제어를 사랑합니다.
 
 ## 🏃‍♂️ Career
@@ -78,7 +73,8 @@ title: portpolio
 ## 📜 Personal Projects
 
 ### 로봇 제작 (2019~2021)
-- 코드 공개 불가 (추후 개발 예정) / 동영상 링크
+- **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=q5RRWnfku9w)
+- 코드 공개 불가 (추후 개발 예정)
 - GPIO를 통한 모터제어
 - 각종 센서 신호 입력/출력
 - LTE 무선 통신을 통한 문자열, 화면 전송
