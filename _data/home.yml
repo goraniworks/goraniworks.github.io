@@ -1,6 +1,9 @@
 navbar_entries:
-  - title: Portpolio
+  - title: about
     url: about
+
+  - title: Portpolio
+    url: Portpolio
 
   - title: blog
     url: blog
