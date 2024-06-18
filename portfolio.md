@@ -1,6 +1,6 @@
 ---
 layout: post
-title: portpolio
+title: portfolio
 ---
 
 # Ji-Su Park's Portfolio
@@ -18,10 +18,9 @@ title: portpolio
 - 보안이 최우선이에요.
 - 쉬운 개발 / 쉬운 유지보수를 추구해요. 
 - 적극적으로 AI를 도입합니다.
-- 꾸준하게 신기술을 접하며 항상 성장하려고 노력해요.
+- 😘 꾸준하게 신기술을 접하며 항상 성장하려고 노력해요.
 - 🏨 Python과 하드웨어, AI에 관심이 많습니다.
 - 🌱 현재 UNITY를 배우고 있습니다.
-- 😘 Python, Raspberry_PI 및 하드웨어 제어를 사랑합니다.
 
 ## 🏃‍♂️ Career
 
@@ -74,18 +73,17 @@ title: portpolio
 
 ### 로봇 제작 (2018~2021)
 - v1 **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=q5RRWnfku9w)
-- 코드 공개 불가 (추후 개발 예정)
 - GPIO를 통한 모터제어
 - 각종 센서 신호 입력/출력
 - LTE 무선 통신을 통한 문자열, 화면 전송
 - 웹기반 인터페이스 통한 원격 조작
 - inventor를 이용한 실물설계. 레이저 컷팅기, 3D프린터를 이용한 로봇 관절 및 뼈대 제작
 - v2 **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=JeqHKDsGvEE)
-- v3 로봇 뼈대 및 몸체 형상 제작. 형상 공개 불가 (추후 개발 예정)
+- v3 로봇 뼈대 및 몸체 형상 제작. 
 
 ### 웹 서버 구축 (2021)
 - **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=I-RsGblS2pw)
-- flask를 이용한 게시판 구축
+- flask를 이용한 웹사이트 구축
 - 라즈베리파이를 이용한 원격 PC on/off 장치
 
 ### 미세먼지 측정기 (2018)
@@ -93,10 +91,9 @@ title: portpolio
 - 미세먼지 센서에서 출력된 문자열 LCD 화면에 출력
 
 ### 게임 개발 (2021~2023)
-- 내용 공개 불가 (추후 발매 예정)
+- Ren'Py 게임 엔진 기반
 - 조선시대 열두살 고종을 육성하여 나라를 근대화 하는 전략게임 
 - 조선 8도 지역별 이벤트, 장터, 인구 계층별 이해관계 구현
-- 파이썬 기반의 개발 툴(renpy)
 - 모듈화된 이벤트 구조를 통한 파라메터 증감
 - 인플레이션이 반영된 물가 시스템
 
@@ -104,6 +101,7 @@ title: portpolio
 - 블로그 참조 바람 [https://goraniworks.github.io/](https://goraniworks.github.io/)
 
 ## ⛏️ Skills and Tools
+
 | Category       | Experienced   | Novice           |
 | -------------- | ------------- | ---------------- |
 | **Language**   | Python        | javascript, C    |
@@ -111,6 +109,7 @@ title: portpolio
 | **OS**         | Windows, Ubuntu, CentOS | RHEL     |
 | **Virtualization** | VMware, RHEV  |                  |
 | **Dev**        | VScode        | GitHub           |
+| **Game Engine**| Ren'Py        | Unity            | 
 
 ## 🏅 Certifications
 

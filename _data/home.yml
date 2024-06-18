@@ -3,7 +3,7 @@ navbar_entries:
     url: about
 
   - title: Portfolio
-    url: portpolio
+    url: portfolio
 
   - title: blog
     url: blog
