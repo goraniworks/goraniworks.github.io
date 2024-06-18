@@ -71,6 +71,10 @@ title: portfolio
 
 ## 📜 Personal Projects
 
+### 미세먼지 측정기 (2018)
+- 블로그 링크 [https://wm0326.blogspot.com/2018/12/blog-post.html](https://wm0326.blogspot.com/2018/12/blog-post.html)
+- 미세먼지 센서에서 출력된 문자열 LCD 화면에 출력
+
 ### 로봇 제작 (2018~2021)
 - v1 **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=q5RRWnfku9w)
 - GPIO를 통한 모터제어
@@ -85,10 +89,6 @@ title: portfolio
 - **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=I-RsGblS2pw)
 - flask를 이용한 웹사이트 구축
 - 라즈베리파이를 이용한 원격 PC on/off 장치
-
-### 미세먼지 측정기 (2018)
-- 블로그 링크 [https://wm0326.blogspot.com/2018/12/blog-post.html](https://wm0326.blogspot.com/2018/12/blog-post.html)
-- 미세먼지 센서에서 출력된 문자열 LCD 화면에 출력
 
 ### 게임 개발 (2021~2023)
 - Ren'Py 게임 엔진 기반
