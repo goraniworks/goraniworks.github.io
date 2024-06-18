@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: "en" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
         {%- include head.html -%}
+  <head>
+    {%- include head.html -%}
+    <style>
+      table {
+        width: 100%;
+        table-layout: fixed;
+      }
+
+      table th, table td {
+        word-wrap: break-word;
+      }
+    </style>
+  </head>        
   <body>
     <main class="page-content" aria-label="Content">
       <div class="w">
