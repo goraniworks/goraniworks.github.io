@@ -68,7 +68,7 @@ title: portfolio
 
 ### 공군 시뮬레이터 장비 유지보수 (2024 ~ 재직중)
 - 공군 XX부대 / 비유테크놀러지
-- 항공기 시뮬레이터 장비 유지보수
+- 항공기 정비 시뮬레이터 장비 유지보수
 
 ## 📜 Personal Projects
 
@@ -80,11 +80,16 @@ title: portfolio
 - v1 **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=q5RRWnfku9w)
 - GPIO를 통한 모터제어
 - 각종 센서 신호 입력/출력
-- LTE 무선 통신을 통한 문자열, 화면 전송
+- LTE 무선 통신을 통한 화면 음성 전송이 목표였다. 영상과 음성은 통신사 LTE장비의 방화벽에 막혀 모든 시도 실패. 음성은 휴대폰에 마이크와 스피커를 장착, 영상은 윈도우 소형 pc에 팀뷰어사용. 구동계는 라즈베리파이에 모터연결하여 ssh혹은 웹을 통해 조작. 
 - 웹기반 인터페이스 통한 원격 조작
-- inventor를 이용한 실물설계. 레이저 컷팅기, 3D프린터를 이용한 로봇 관절 및 뼈대 제작
+
 - v2 **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=JeqHKDsGvEE)
-- v3 로봇 뼈대 및 몸체 형상 제작. 
+- 설계만 하고 종료
+- inventor를 이용한 cad설계가 가능함을 확인
+  
+- v3 로봇 뼈대 및 몸체 형상 제작.
+- inventor를 이용한 실물설계. 레이저 컷팅기, 3D프린터를 이용한 로봇 관절 및 뼈대 제작 완성
+- 구동계의 정확한 스펙 산출에 실패. 현재 프로젝트 보류중
 
 ### 웹 서버 구축 (2021)
 - **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=I-RsGblS2pw)
