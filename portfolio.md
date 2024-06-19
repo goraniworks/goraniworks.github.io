@@ -80,7 +80,7 @@ title: portfolio
 - v1 **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=q5RRWnfku9w)
 - GPIO를 통한 모터제어
 - 각종 센서 신호 입력/출력
-- LTE 무선 통신을 통한 화면 음성 전송이 목표였다. 영상과 음성은 통신사 LTE장비의 방화벽에 막혀 모든 시도 실패. 음성은 휴대폰에 마이크와 스피커를 장착, 영상은 윈도우 소형 pc에 팀뷰어사용. 구동계는 라즈베리파이에 모터연결하여 ssh혹은 웹을 통해 조작. 
+- LTE 무선 통신을 통한 화면 음성 전송이 목표였다. 영상과 음성은 통신사 LTE장비의 방화벽에 막혀 모든 시도 실패. 음성은 휴대폰에 마이크와 스피커를 장착, 영상은 윈도우 소형 pc에 웹캠을 연결,팀뷰어로 전송. 구동계는 라즈베리파이에 모터연결하여 ssh혹은 웹을 통해 조작. 
 - 웹기반 인터페이스 통한 원격 조작
 
 - v2 **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=JeqHKDsGvEE)
@@ -89,7 +89,7 @@ title: portfolio
   
 - v3 로봇 뼈대 및 몸체 형상 제작.
 - inventor를 이용한 실물설계. 레이저 컷팅기, 3D프린터를 이용한 로봇 관절 및 뼈대 제작 완성
-- 구동계의 정확한 스펙 산출에 실패. 현재 프로젝트 보류중
+- 구동계(모터) 정확한 스펙 산출에 실패. 현재 프로젝트 보류중
 
 ### 웹 서버 구축 (2021)
 - **동영상** [Watch the video on YouTube](https://www.youtube.com/watch?v=I-RsGblS2pw)
@@ -102,6 +102,8 @@ title: portfolio
 - 조선 8도 지역별 이벤트, 장터, 인구 계층별 이해관계 구현
 - 모듈화된 이벤트 구조를 통한 파라메터 증감
 - 인플레이션이 반영된 물가 시스템
+- 자금난, 기한초과로 프로젝트 보류중
+- 추후 개발 재개 예정
 
 ### 최신 프로젝트(2024~ )
 - 블로그 참조 바람 [https://goraniworks.github.io/](https://goraniworks.github.io/)
