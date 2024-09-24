@@ -5,7 +5,7 @@ title: portfolio
 
 # Ji-Su Park's Portfolio
 
-> **SW/HW 전문가, 박지수 입니다.**
+> **AI중독, 박지수 입니다.**
 
 ## ✉️ Contact
 
